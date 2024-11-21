@@ -23,3 +23,8 @@ Allows the deletion of a reservation based on the reservation ID.
 #### 6. Exit
 Gracefully exits the system with a countdown.
 
+### Prerequisites
+- Java Development Kit (JDK) 
+- MySQL Server version 
+- MySQL JDBC Driver (mysql-connector-java)
+- Basic understanding of SQL and database management
