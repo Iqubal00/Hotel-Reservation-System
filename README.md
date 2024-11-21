@@ -17,6 +17,26 @@ Fetches the room number for a given reservation ID and guest name.
 #### 4. Update Reservations
 Enables users to update guest name, room number, or contact number for an existing reservation.
 
+#### - Steps to Update a Reservation
+1. Choose Update Option
+From the main menu, enter 4 to select "Update Reservations."
+
+2. Enter Reservation ID
+Input the ID of the reservation you wish to modify. If the ID doesn't exist, an error message is displayed.
+
+3. Select Detail to Update
+Choose what to update from the following options:
+
+- 1: Guest Name 
+- 2: Room Number
+- 3: Contact Number
+- 4: Return to Main Menu
+4. Provide New Value
+Enter the updated value for the selected detail. The system confirms the update or reports if it failed.
+
+5. Repeat or Exit
+After updating, you can modify another detail or return to the main menu.
+
 #### 5. Delete Reservations
 Allows the deletion of a reservation based on the reservation ID.
 
