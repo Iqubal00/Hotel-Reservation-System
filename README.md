@@ -27,10 +27,10 @@ Input the ID of the reservation you wish to modify. If the ID doesn't exist, an 
 3. Select Detail to Update
 Choose what to update from the following options:
 
-- 1: Guest Name 
-- 2: Room Number
-- 3: Contact Number
-- 4: Return to Main Menu
+   - Guest Name 
+   - Room Number
+   - Contact Number
+   - Return to Main Menu
 4. Provide New Value
 Enter the updated value for the selected detail. The system confirms the update or reports if it failed.
 
